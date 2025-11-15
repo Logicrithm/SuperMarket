@@ -187,20 +187,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact & Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Contact: [Your Email]
-
-## 🙏 Acknowledgments
-
-- MySQL Documentation
-- Java Documentation
-- Open Source Community
-
----
-
 **Note**: This is an educational project demonstrating basic inventory and billing management. For production use, implement additional security measures and error handling.
 
 **Version**: 1.0.0  
